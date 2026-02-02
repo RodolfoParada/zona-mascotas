@@ -1,0 +1,24 @@
+{
+  "name": "zona-mascotas",
+  "version": "1.0.0",
+  "description": "``` /proyecto-gatos │ ├── /css │   └── styles.css ├── /js │   ├── app.js          <-- Punto de entrada e inicialización │   ├── router.js       <-- Lógica para cambiar de \"página\" │   ├── /views          <-- Funciones que retornan el HTML de cada sección │   │   ├── Home.js │   │   ├── DetalleTema.js │   │   └── Contacto.js │   └── data.js         <-- Aquí podrías tener tu JSON de temas ├── index.html          <-- El único HTML que existe └── ads.txt             <-- Tu archivo para validación de publicidad ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoParada/zona-mascotas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RodolfoParada/zona-mascotas/issues"
+  },
+  "homepage": "https://github.com/RodolfoParada/zona-mascotas#readme",
+  "devDependencies": {
+    "eslint": "^9.39.2"
+  }
+}
